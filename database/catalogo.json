@@ -22,5 +22,13 @@
     "atores": ["Ingrid", "Anna", "Luis"],
     "anoLancamento": 2013,
     "emCartaz": false
+  },
+  {
+    "codigo": 3,
+    "titulo": "Filme 4",
+    "duracao": 2.5,
+    "atores": ["Anna"],
+    "anoLancamento": 2015,
+    "emCartaz": false
   }
 ]
