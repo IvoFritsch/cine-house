@@ -37,7 +37,7 @@ function listarTodosOsFilmes() {
   console.log('Lista de todos os filmes:')
   for (const i = 0; i < catalogo.length; i++) {
     const filme = catalogo[i]
-    console.log(filme.titulo + ", " + filme.duracao + " horas, ano " + filme.anoLancamento)
+    console.log(filme.titulo + ", " + filme.duracao + " HORAS, ano " + filme.anoLancamento)
   }
 }
 
