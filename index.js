@@ -23,7 +23,7 @@ function buscarFilme(codigo) {
       return filme
     }
   }
-  console.log('Filme não encontrado')
+  console.log('!!!!Filme não encontrado!!!!')
 }
 
 function alterarStatusEmCartaz(codigo) {
