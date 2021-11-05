@@ -50,7 +50,7 @@ function listarTodosOsFilmesEmCartaz() {
     if(!filme.emCartaz) {
       continue
     }
-    console.log(filme.titulo + ", " + filme.duracao + " horas, ano " + filme.anoLancamento)
+    console.log(filme.titulo + ": " + filme.duracao + " horas, ano " + filme.anoLancamento)
   }
 }
 
